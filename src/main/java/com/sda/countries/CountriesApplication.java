@@ -8,7 +8,7 @@ public class CountriesApplication {
 
     public static void main(String[] args) {
 
-        System.out.println("Co tam slychac ?");
+        System.out.println("JAN ?");
         SpringApplication.run(CountriesApplication.class, args);
     }
 
